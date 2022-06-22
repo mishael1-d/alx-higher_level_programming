@@ -1,10 +1,12 @@
 #!/usr/bin/python3
 """Magic class from a given ByteCode."""
+
 import math
 
 
 class MagicClass:
     """Initialization of the MagicClass."""
+    
     def __init__(self, radius=0):
         """Initialization of the data."""
         self._MagicClass__radius = 0
