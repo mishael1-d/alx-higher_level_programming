@@ -7,10 +7,8 @@ representing the Pascal’s triangle of n.
 
 def pascal_triangle(n):
     """Returns the pascal triangle of n.
-    
     Args:
         - n: size of the triangle (rows)
-    
     Returns: a list of list of integers
     """
 
